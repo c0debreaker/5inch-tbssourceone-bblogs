@@ -11,7 +11,7 @@
 - Receiver: Crossfire Nano CRSFShot ADC Off
 - Blackbox: Openlager 2Khz GYRO Scaled
 - Radio Transmitter: Jumper T16 with Crossfire Micro
-
+- BLHeli-32 @ 24Hz PWM
 
 ### First Flight Test Video
 - https://www.youtube.com/watch?v=t26a-oK9Lpc
